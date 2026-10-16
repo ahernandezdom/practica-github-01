@@ -3,6 +3,7 @@ LLISTAT D'ALUMNES
 Núm. PC | Nom i cognoms | Pel·lícula
 -------------------------------------
 2 4 | Hugo Signes | Diancie y la crisálida de la destrucción
+PC 1 5 | Borja Albert Bataller | Uncharted 
 3 1     Carles Tudela Garcia    Scary Movie 6 
 PC 1 6 | Salva Llàcer Ivars | Whiplash
 PC 2 5 | Al Hayy Castellá García | 2001: A Space Odyssey
