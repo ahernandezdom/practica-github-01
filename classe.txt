@@ -3,3 +3,7 @@ LLISTAT D'ALUMNES
 Núm. PC | Nom i cognoms | Pel·lícula
 -------------------------------------
 2 4 | Hugo Signes | Diancie y la crisálida de la destrucción
+14        Javier Sansano  Cars
+22 | Héctor Piquer Belda | Titanic
+12  | Gabriel Vidal Badia| Matrix
+34 | José Miguel Miralles Gandia| Se7en
