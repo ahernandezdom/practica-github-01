@@ -3,6 +3,9 @@ LLISTAT D'ALUMNES
 Núm. PC | Nom i cognoms | Pel·lícula
 -------------------------------------
 2 4 | Hugo Signes | Diancie y la crisálida de la destrucción
+Núm. PC: 21
+Nom i cognoms: Victor Alexandru Baicu
+Pel·lícula: Spider-Man: Brand New Day
 23 | David Abraham Alba Rivero | Notting Hill
 PC 1 5 | Borja Albert Bataller | Uncharted 
 3 1     Carles Tudela Garcia    Scary Movie 6 
